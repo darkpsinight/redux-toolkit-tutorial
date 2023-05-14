@@ -1,0 +1,1 @@
+Link tutorial Redux-toolkit: https://youtu.be/u3KlatzB7GM
